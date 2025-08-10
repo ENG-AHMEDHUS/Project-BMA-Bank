@@ -45,3 +45,16 @@ The project is built with a **3-layer architecture**:
 3. **Data Access Layer (SQLite)** – Handles database operations such as insert, update, delete, and queries.
 
 ### ERD (Entity Relationship Diagram)
+
+## 🚀 How to Run the Project
+
+1. *Clone the Repository*
+   ```bash
+   git clone https://github.com/username/BMA-BANK.git
+   cd BMA-BANK
+   
+2. Open the project in IntelliJ IDEA or Eclipse.
+3. Download and add the SQLite JDBC Driver (sqlite-jdbc.jar) to the project classpath.
+4. Download and add JavaFX SDK (all JAR files from the lib folder) to the project classpath.
+5. Configure VM Options:--module-path "path\to\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml  
+
