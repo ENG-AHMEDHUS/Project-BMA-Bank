@@ -50,8 +50,8 @@ The project is built with a **3-layer architecture**:
 
 1. *Clone the Repository*
    ```bash
-   git clone https://github.com/username/BMA-BANK.git
-   cd BMA-BANK
+   git clone https://github.com/ENG-AHMEDHUS/Project-BMA-Bank.git
+   cd Project-BMA-Bank
    
 2. Open the project in IntelliJ IDEA or Eclipse.
 3. Download and add the SQLite JDBC Driver (sqlite-jdbc.jar) to the project classpath.
